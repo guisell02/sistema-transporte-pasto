@@ -1,8 +1,15 @@
+# Prototipos en Figma
+
+## Sistema de Navegación y Recaudo Inteligente
+
+Prototipo interactivo del sistema de tarjetas inteligentes, recarga de saldo, pago de pasajes y navegación de rutas urbanas.
+
+https://www.figma.com/make/BBB0qOGi97CFLodneOPotc/Sistema-de-navegaci%C3%B3n-moviles?fullscreen=1&t=I4Vc6jZMhndXCy5G-1&code-node-id=0-9
+
 ---
 
-# 2. descripcion-prototipo.md
+## Sistema de Control de Puertas
 
-Dentro de:
+Prototipo interactivo del sistema de control de puertas automatizado para buses urbanos de San Juan de Pasto.
 
-```txt id="0qix0r"
-prototipo-figma/
+https://www.figma.com/make/uvzqYVV6ziMK96Tg5kgK7b/Control-de-puertas?fullscreen=1&t=37mbvZjoGaheguEw-1&code-node-id=0-9
