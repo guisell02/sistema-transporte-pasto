@@ -1,0 +1,8 @@
+---
+
+# 2. descripcion-prototipo.md
+
+Dentro de:
+
+```txt id="0qix0r"
+prototipo-figma/
