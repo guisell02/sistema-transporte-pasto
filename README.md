@@ -76,11 +76,7 @@ Próximas fases:
 - Diseño UX/UI
 - Prototipado interactivo
 
----
 
-## Capturas del Sistema
-
-Las capturas del prototipo se encuentran en:
 
 ```bash
-prototipo-figma/capturas/
+
