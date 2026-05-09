@@ -76,7 +76,21 @@ Próximas fases:
 - Diseño UX/UI
 - Prototipado interactivo
 
+## Metodología de Desarrollo
 
+El proyecto se desarrolla bajo la metodología ágil Scrum, permitiendo una construcción iterativa e incremental del sistema mediante prototipos funcionales.
+
+---
+
+## Arquitectura Propuesta
+
+El sistema estará compuesto por:
+
+- Frontend desarrollado en React.
+- Backend API REST con Node.js y Express.
+- Base de datos relacional.
+- Módulo de geolocalización GPS.
+- Sistema de recaudo electrónico.
 
 ```bash
 
